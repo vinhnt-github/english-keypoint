@@ -4,5 +4,7 @@ https://docs.google.com/document/d/1WvZGIlYqbmra17fjojJXy14MEfxa54kBcWZjQQUBRXU/
 https://docs.google.com/document/d/1_OjUVhP6MhVYaroPvcxwLF48spA7njBR2kUoVE9wIz0/edit?fbclid=IwAR1TI1Lx1NaPUEL5YLDFUasAoWZKuq0_cnDTQhB-DH61RowKUo58E1SO-SI
 https://docs.google.com/document/d/1GokJ83y8CJhsjOKfFJe0xI2Un0HQOlzuJX8Xi4OpemQ/edit?fbclid=IwAR3iPkHoNuPBNmeza2HjAx9rIvtZ7QXII5UJGsBfmw1HNi9b8NvZdqejpAU
 
-
-https://drive.google.com/file/d/1MLWGdo32jqBggBtgP8SKqPmGVTvU0QlD/view
+---------LĐ------
+ess1: https://drive.google.com/file/d/1MLWGdo32jqBggBtgP8SKqPmGVTvU0QlD/view
+ess2:
+https://drive.google.com/file/d/1dDQ5qzhH_haifDukeQ88k6pz_HUPRPU3/view?usp=drivesdk
